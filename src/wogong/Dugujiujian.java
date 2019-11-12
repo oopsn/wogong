@@ -6,7 +6,8 @@ public class Dugujiujian {
     System.out.println("fewfaefa ");
     System.out.println("fewfaefa ");
     System.out.println("fewf鸡同鸭讲 ");
-          
+    System.out.println("fewf鸡同鸭讲 ");
+
 	}
 
 } 
